@@ -10,7 +10,7 @@ Este proyecto integra conceptos de **Matemática I** (conjuntos y lógica) con *
 * **Daniela Romero**
 * **Juan Romero**
 
-[cite_start]**Fecha de Entrega:** 13 de Junio de 2025 
+**Fecha de Entrega:** 13 de Junio de 2025 
 
 ## Funcionalidades Clave
 
