@@ -28,7 +28,7 @@ El programa Python se divide en dos módulos principales:
 ## Recursos Adicionales
 
 * **Documento del Trabajo:** [TP INTEGRADOR II MATEMÁTICA-PROGRAMACIÓN.docx.pdf]
-* **Video de Presentación:** []
+* **Video de Presentación:** [https://youtu.be/eT5Nivqhi2Y]
 
 Este proyecto demostró la aplicación práctica de la lógica matemática en la programación, reforzando la conexión entre ambas disciplinas y la importancia del trabajo en equipo. 
 
